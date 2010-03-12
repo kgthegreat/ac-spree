@@ -1,0 +1,8 @@
+body {
+  background: #FFFFFF; }
+
+body.two-col div#wrapper {
+  background-image: none;
+  background: #A6034F;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px; }
